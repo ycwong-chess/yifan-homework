@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/yifan-homework/static/css/main.5f361e03.chunk.css",
-    "main.js": "/yifan-homework/static/js/main.b613f37d.chunk.js",
-    "main.js.map": "/yifan-homework/static/js/main.b613f37d.chunk.js.map",
+    "main.js": "/yifan-homework/static/js/main.6e3d6810.chunk.js",
+    "main.js.map": "/yifan-homework/static/js/main.6e3d6810.chunk.js.map",
     "runtime-main.js": "/yifan-homework/static/js/runtime-main.c5ffd070.js",
     "runtime-main.js.map": "/yifan-homework/static/js/runtime-main.c5ffd070.js.map",
     "static/js/2.1a084476.chunk.js": "/yifan-homework/static/js/2.1a084476.chunk.js",
     "static/js/2.1a084476.chunk.js.map": "/yifan-homework/static/js/2.1a084476.chunk.js.map",
     "index.html": "/yifan-homework/index.html",
-    "precache-manifest.1bd5e9320b6897875dc3467452ff15e9.js": "/yifan-homework/precache-manifest.1bd5e9320b6897875dc3467452ff15e9.js",
+    "precache-manifest.c3aac6b9de82088459f9472d0a9603be.js": "/yifan-homework/precache-manifest.c3aac6b9de82088459f9472d0a9603be.js",
     "service-worker.js": "/yifan-homework/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/yifan-homework/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.1a084476.chunk.js.LICENSE.txt": "/yifan-homework/static/js/2.1a084476.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/yifan-homework/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/yifan-homework/static/media/logo.5d5d9eef.svg",
+    "static/media/yifan-logo.png": "/yifan-homework/static/media/yifan-logo.e4652cd5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c5ffd070.js",
     "static/js/2.1a084476.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b613f37d.chunk.js"
+    "static/js/main.6e3d6810.chunk.js"
   ]
 }

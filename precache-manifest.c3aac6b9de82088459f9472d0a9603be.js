@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4073f2a50208ad5057b7182ae34ae34c",
+    "revision": "b5c20cd15740fee25c38ddd20e632078",
     "url": "/yifan-homework/index.html"
   },
   {
-    "revision": "3a85b573c512de5b0ac7",
+    "revision": "1186504bed8c649ec68e",
     "url": "/yifan-homework/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yifan-homework/static/js/2.1a084476.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a85b573c512de5b0ac7",
-    "url": "/yifan-homework/static/js/main.b613f37d.chunk.js"
+    "revision": "1186504bed8c649ec68e",
+    "url": "/yifan-homework/static/js/main.6e3d6810.chunk.js"
   },
   {
     "revision": "e7dd94b3feb430b21e47",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/yifan-homework/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "e4652cd52c85a0f331723010c7b83b0d",
+    "url": "/yifan-homework/static/media/yifan-logo.e4652cd5.png"
   }
 ]);
