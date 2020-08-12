@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5c20cd15740fee25c38ddd20e632078",
+    "revision": "eefedb1e152ac69372598317454dbd3f",
     "url": "/yifan-homework/index.html"
   },
   {
-    "revision": "1186504bed8c649ec68e",
+    "revision": "1303c4b6156ad3a29a65",
     "url": "/yifan-homework/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yifan-homework/static/js/2.1a084476.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1186504bed8c649ec68e",
-    "url": "/yifan-homework/static/js/main.6e3d6810.chunk.js"
+    "revision": "1303c4b6156ad3a29a65",
+    "url": "/yifan-homework/static/js/main.368a6b4c.chunk.js"
   },
   {
     "revision": "e7dd94b3feb430b21e47",
