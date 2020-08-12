@@ -1,5 +1,5 @@
 import React from 'react';
-import yifanlogo from '.img/yifan-logo.png';
+import yifanlogo from './img/yifan-logo.png';
 import logo from './logo.svg';
 import './App.css';
 
