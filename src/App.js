@@ -20,7 +20,7 @@ function App() {
           Learn React
         </a> 
       </header>*/}
-      <header>
+      <header className="App-header">
         <img src={yifanlogo} alt="yifan logo" />
         <h1 style={{color: "rgb(200,30,200)", fontFamily: "arial", fontSize: 100}}>Welcome to Yifan Homework!</h1>
           <h2>Yifan Homework is a session where children can learn mandarin after lessons too! We will provide them with after-class homework, audio recordings, practises as well as quizzes!</h2>
