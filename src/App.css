@@ -7,6 +7,44 @@
   pointer-events: none;
 }
 
+.page-header{
+  text-align: center;
+  justify-content: space-around;
+  margin: auto 10vw;
+}
+
+.Homework, .Quiz, .Reading {
+  text-align: center;
+}
+
+.Quiz .h2style{
+  text-align: center;
+  margin: auto 10vw;
+  
+  
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(78, 170, 170);
+}
+
+.nav-links{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+
+li {
+  list-style: none;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
