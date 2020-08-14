@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yifan-homework/static/css/main.a99589f0.chunk.css",
-    "main.js": "/yifan-homework/static/js/main.47695d3a.chunk.js",
-    "main.js.map": "/yifan-homework/static/js/main.47695d3a.chunk.js.map",
+    "main.js": "/yifan-homework/static/js/main.be793162.chunk.js",
+    "main.js.map": "/yifan-homework/static/js/main.be793162.chunk.js.map",
     "runtime-main.js": "/yifan-homework/static/js/runtime-main.c5ffd070.js",
     "runtime-main.js.map": "/yifan-homework/static/js/runtime-main.c5ffd070.js.map",
     "static/js/2.68052d82.chunk.js": "/yifan-homework/static/js/2.68052d82.chunk.js",
     "static/js/2.68052d82.chunk.js.map": "/yifan-homework/static/js/2.68052d82.chunk.js.map",
     "index.html": "/yifan-homework/index.html",
-    "precache-manifest.74e1b5ef59482e3be0b70f6c79e42177.js": "/yifan-homework/precache-manifest.74e1b5ef59482e3be0b70f6c79e42177.js",
+    "precache-manifest.72fb9d1154e54a160aa5132adf69f4d8.js": "/yifan-homework/precache-manifest.72fb9d1154e54a160aa5132adf69f4d8.js",
     "service-worker.js": "/yifan-homework/service-worker.js",
     "static/css/main.a99589f0.chunk.css.map": "/yifan-homework/static/css/main.a99589f0.chunk.css.map",
     "static/js/2.68052d82.chunk.js.LICENSE.txt": "/yifan-homework/static/js/2.68052d82.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c5ffd070.js",
     "static/js/2.68052d82.chunk.js",
     "static/css/main.a99589f0.chunk.css",
-    "static/js/main.47695d3a.chunk.js"
+    "static/js/main.be793162.chunk.js"
   ]
 }
