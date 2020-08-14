@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4152e6713bd604e0cac985a60c23c41",
+    "revision": "729ddbc4c470392393013d335f538f2b",
     "url": "/yifan-homework/index.html"
   },
   {
-    "revision": "0f1618096174fa829bed",
-    "url": "/yifan-homework/static/css/main.4011b26e.chunk.css"
+    "revision": "e978a6a91e8073abc026",
+    "url": "/yifan-homework/static/css/main.a0886d10.chunk.css"
   },
   {
-    "revision": "25099c941e2fd5b76976",
-    "url": "/yifan-homework/static/js/2.f8fbb7dd.chunk.js"
+    "revision": "70daf3ec8719a8570b72",
+    "url": "/yifan-homework/static/js/2.68052d82.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/yifan-homework/static/js/2.f8fbb7dd.chunk.js.LICENSE.txt"
+    "url": "/yifan-homework/static/js/2.68052d82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f1618096174fa829bed",
-    "url": "/yifan-homework/static/js/main.7140dd79.chunk.js"
+    "revision": "e978a6a91e8073abc026",
+    "url": "/yifan-homework/static/js/main.15221060.chunk.js"
   },
   {
     "revision": "e7dd94b3feb430b21e47",
