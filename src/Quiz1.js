@@ -89,16 +89,24 @@ export class Quiz1 extends Component {
         if(quizEnd) {
             return (
                 <div>
-                    <h1>Quiz Over. Final score is {this.state.score} points.</h1>
-                    <p>The correct Answers for the quiz are: </p>
-                    <ul>
-                        {Quizdata1.map((item, index) => 
-                            <li className="options" key={index}>
-                                {item.answer}
-                            </li>
-                        )}
-                    </ul>
+                    <div>
+                        <h1>Quiz Over. Final score is {this.state.score} points.</h1>
+                        <p>The correct Answers for the quiz are: </p>
+                        <ul>
+                            {Quizdata1.map((item, index) => 
+                                <li className="options" key={index}>
+                                    {item.answer}
+                                </li>
+                            )}
+                        </ul>
+                    </div>
+                    <div>
+                        <Link to="/yifan-homework/quiz"><button>
+                            Back to Quiz Page
+                        </button></Link>
+                    </div>
                 </div>
+
             )
         }
 
@@ -116,10 +124,18 @@ export class Quiz1 extends Component {
                         )
                     }
 
+                <div>
+                    <h1>  </h1>
+                </div>
+
                     {currentIndex < Quizdata1.length - 1 && 
                     <button disabled = {this.state.disabled} onClick={this.nextQuestionHandler}>
                         Next Question
                     </button>}
+
+                <div>
+                    <h1>  </h1>
+                </div>
 
                     {currentIndex === Quizdata1.length - 1 && 
                     <button onClick={this.finishHandler}>

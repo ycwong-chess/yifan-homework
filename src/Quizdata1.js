@@ -22,5 +22,23 @@ export const Quizdata1 = [
         question: `'学校' 的拼音是什么？`,
         options: ["xuè xiāo", "xuè xiào", "xuè xiǎo", "xué xiào"],
         answer: "xué xiào"
+    },
+    {
+        id: 4,
+        question: `'知道' 的拼音是什么？`,
+        options: ["zhī dào", "zhī dāo", "zhǐ dǎo", "zhí dào "],
+        answer: "zhī dào"
+    },
+    {
+        id: 5,
+        question: `'饕餮' 的拼音是什么？`,
+        options: ["tāo tiè", "tāo tián", "tāo tiě", "tāo dié"],
+        answer: "tāo tiè"
+    },
+    {
+        id: 6,
+        question: `'尴尬' 的拼音是什么？`,
+        options: ["jiǎn gà", "jiàn gà", "jiān gà", "gān gà"],
+        answer: "gān gà"
     }
 ]

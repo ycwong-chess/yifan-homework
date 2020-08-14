@@ -81,7 +81,7 @@ li {
 
 .options {
   padding: 8px;
-  margin: auto 10vw;
+  margin: auto 8vw;
   border: 3px solid #000;
   cursor: pointer;
   width: 80%;
@@ -110,3 +110,20 @@ ul li {
 #Quiz1 {
   color: tomato;
 }*/
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  justify-content: center;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: blue;
+  cursor: pointer;
+}
