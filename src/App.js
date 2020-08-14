@@ -1,8 +1,7 @@
 import React from 'react';
 import yifanlogo from './img/yifan-logo.png';
-
 import './App.css';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Link, Redirect } from 'react-router-dom';
 import Nav from './Nav';
 import Quiz from './Quiz';
 import Homework from './Homework';
@@ -18,11 +17,12 @@ function App() {
       <Router>
       <Nav />
         <Switch>
-          <Route path="/yifan-homework/quiz" component={Quiz} />
+          <Route path="/yifan-homework/quiz" exact component={Quiz} />
           <Route path="/yifan-homework/reading" component={Reading} />
           <Route path="/yifan-homework/homework" exact component={Homework} />
           <Route path="/yifan-homework/homework/hw1" component={Hw1} />
           <Route path="/yifan-homework" exact component={Home}/>
+          {/*<Route render={() => <Redirect to={{pathname: "/yifan-homework"}} />} />*/}
         </Switch>
       </Router>
     </div>
@@ -32,6 +32,7 @@ function App() {
 const listStyle = {
   fontSize: "x-large"
 }
+
 
 const Home = () => (
    
@@ -46,7 +47,7 @@ const Home = () => (
                 <li style={listStyle}><strong>Homework / Audio Recording (课堂录音)</strong></li>
               </Link> 
               <Link to="/yifan-homework/reading"> 
-                <li style={listStyle}><strong>One reading Per Week (每周一篇)</strong></li>
+                <li style={listStyle}><strong>One Reading Per Week (每周一篇)</strong></li>
               </Link>
               <Link to="/yifan-homework/quiz">
                 <li style={listStyle}><strong>Quizzes or Games (小测或游戏)</strong></li>
